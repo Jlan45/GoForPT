@@ -42,6 +42,3 @@ func main() {
 
 	api.NewServer().Run(":8080")
 }
-func test() {
-
-}

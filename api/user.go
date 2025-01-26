@@ -1,10 +1,10 @@
 package api
 
 import (
-	"GoForPT/email"
 	"GoForPT/model"
 	"GoForPT/pkg/cfg"
 	"GoForPT/pkg/database"
+	"GoForPT/pkg/email"
 	"GoForPT/pkg/ptcaches"
 	"GoForPT/pkg/tools"
 	"fmt"
