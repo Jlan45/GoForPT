@@ -1,0 +1,24 @@
+smtp:
+  host: "smtp.mail.com"
+  port: 465
+  username: "goforpt@mail.com"
+  password: "password"
+
+cache:
+  regtime: 300
+  logintime: 120
+  announcetime: 1440
+
+database:
+  host: "127.0.0.1"
+  port: 5432
+  username: "goforpt"
+  password: "goforpt"
+  name: "goforpt"
+
+site:
+  title: "GoForPT"
+  host: "goforpt.com"
+  description: "This is a description of my website."
+  torrentpath: "TorrentFile"
+  staticpath: "static"
